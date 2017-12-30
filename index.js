@@ -3,16 +3,16 @@ function add5(a, b){
   return a + b
 }
 
-function subtract(){
-  
+function subtract(a, b){
+  return a - b
 }
 
-function multiply(){
-  
+function multiply(a, b){
+  return a * b
 }
 
-function divideBy3(){
-  number /= 3
+function divide(a, b){
+   return a/b
 }
 
 function inc(n){
